@@ -13,6 +13,6 @@ Wk12
 #### The sample_values as the marker size.
 #### The otu_ids as the marker colors.
 #### The otu_labels as the hover-text values.
-###Deliverable 3: Create a Gauge Chart (Note: Could not make it to display on the webpage)
+###Deliverable 3: Create a Gauge Chart 
 #### create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu.
 ###Deliverable 4: Customize the Dashboard (Note: Could not change this) 
